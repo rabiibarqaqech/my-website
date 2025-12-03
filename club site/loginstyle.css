@@ -1,0 +1,41 @@
+input{
+    margin: 15px;
+    border-radius: 10px;
+    background-color:rgb(216, 216, 216) ;
+    padding: 8px;
+    border: rgb(216, 216, 216);
+    border-right: 2px rgba(0, 0, 0, 0.363) solid;
+    border-bottom: 2px rgba(0, 0, 0, 0.363) solid;
+    border-left: none;
+    border-top: none;
+}
+hr{
+    margin-top: 219px;
+}
+fieldset{
+    width: 30px;
+    height: 225px;
+    margin: 150px auto 10px auto;
+    background: white;
+    padding: 20px; 
+    border-right: 5px rgba(0, 0, 0, 0.363) solid;
+    border-bottom: 5px rgba(0, 0, 0, 0.363) solid;
+    border-left: none;
+    border-top: none;
+    border-radius: 10px;
+}
+#v{
+    margin: auto auto auto 18%;
+    padding: 5px 40px 5px 40px;
+    background: rgb(114, 114, 114);
+    border: 2px solid;
+    color: white;
+}
+body{
+    background: rgb(216, 216, 216);
+}
+#BSMC{
+margin-bottom: 25px;
+margin-left: 28%;
+text-transform: capitalize;
+}
